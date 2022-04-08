@@ -7,3 +7,4 @@ The code must be no more than 9 characters long, and we have to be able to get t
 -	Which date was the code issued?
 -	Which customer (transaction) did the docket belong to (a number starting again at 1 every day)
 Consider how easy it is for the end users to read/copy the code into the website and how we can prevent cheaters.
+Write the methods for generating+decoding this unique code that will be printed on the docket
